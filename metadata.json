@@ -1,0 +1,7 @@
+{
+  "name": "SkillTrack AI",
+  "description": "National Digital Skill & Employment Registry with Student Passport, Employer Portal, and Government Outcome Monitoring views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
